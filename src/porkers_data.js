@@ -11,7 +11,7 @@ const hogs = [
     specialty: 'Making friends',
     greased: true,
     weight: 1.6,
-    'highest medal achieved': 'silver'
+    'highest medal achieved': 'silver',
   },
   {
     name: 'Cherub',
